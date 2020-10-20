@@ -6,21 +6,21 @@ Feel free to play with it!*/
     /* Can you fix the url to find the ttf font file? */
     /* The following line should be something like: */
     /* src: url('location/of/font.ttf'); */
-    src: url('');
+    src: url('../week-3-fix-the-gallery-of-nonsense-XiaoqingIrisZhu/src/fonts/lockergnome.ttf');
 }
 
 * {
     font-family: 'lockergnome';
-    background-color: beige;
+    background-color: rgba(236, 223, 212, 0.911);
     font-size: 1.1em;
 }
 
 body {
     max-width: 1024px;
-    margin: 0 auto; 
+    margin: 10 auto; 
 }
 
 h1 {    
     font-size: 3em;
-    color: pink;
+    color: orange;
 }
